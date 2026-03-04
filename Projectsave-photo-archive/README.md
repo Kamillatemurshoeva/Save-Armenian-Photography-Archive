@@ -8,8 +8,6 @@ It compiles publicly accessible **metadata records** from the online catalog of:
 Project SAVE Armenian Photograph Archives, Inc.  
 https://www.projectsave.org
 
-The goal is to support **open data, digital humanities research, and cultural heritage analysis** by making Armenian photographic archive metadata easier to explore and reuse.
-
 ## Important Disclaimer
 
 This project is **not affiliated with Project SAVE Armenian Photograph Archives, Inc.**
